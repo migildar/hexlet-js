@@ -1,1 +1,2 @@
 git@github.com:migildar/hexlet-js.git
+git@github.com:hexlet-boilerplates/nodejs-package.git
